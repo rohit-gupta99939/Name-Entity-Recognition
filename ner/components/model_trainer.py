@@ -41,9 +41,6 @@ class DataSequence(torch.utils.data.Dataset):
 
         return len(self.labels)
     
-    def print_some():
-        print('Hello, world')
-
     def get_batch_data(self, idx):
 
         return self.texts[idx]
