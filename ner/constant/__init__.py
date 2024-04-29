@@ -45,6 +45,6 @@ MODEL_EVALUATION_ARTIFACTS_DIR = "ModelEvaluationArtifacts"
 
 
 
-# APP_HOST = "0.0.0.0"
-APP_HOST = "127.0.0.1"
+APP_HOST = "0.0.0.0"
+# APP_HOST = "127.0.0.1"
 APP_PORT = 8080
